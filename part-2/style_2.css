@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title-text{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.banner{
+    display: flex;
+    justify-content: center;
+}
+.banner-text{
+    background-color: black;
+    color: white;
+    width: 606px;
+}
+.inner-banner{
+    margin: 10px;
+}
+.user-containment{
+    display: flex;
+    justify-content: center;
+    margin-left: -429px;
+    margin-top: 30px;
+}
+.my-profile{
+    border: 3px solid black;
+    width: 165px;
+    height: 250px;
+    padding-bottom: 30px;
+}
+.adding-pic{
+    width: 300px;
+    font-size: x-large;
+    margin-left: -30px;
+    margin-bottom: 30px;
+}
+.user-id{
+    width: 150px;
+    margin-left: -30px;
+}
+.inside-profile{
+    margin: 40px;
+}
+.pic{
+    height: 80px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.friends-containment{
+    margin-top: -305px;
+    margin-left: -110px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.profile{
+    border: 3px solid black;
+    margin-top: 20px;
+    height: auto;
+    width: 400px;
+    padding-bottom: 10px;
+    margin-left: 300px;
+}
+.profile-info{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.input, .input-2, .input-3{
+    width: 200px;
+    flex: 1;
+}
+.input{
+    margin-left: 20px;
+}
+.user{
+    width: 500px;
+}
+.input-2, .input-3{
+    display: flex;
+    justify-content: flex-end;
+}
+.input-3{
+    margin-right: 20px;
+}
+.profile-text{
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 350px;
+    font-size: larger;
+}
+.likes, .likes-2, .likes-3, .btn{
+    font-size: large;
+}
+.btn{
+    background-color: #FFC000;
+    padding: 3px 8px;
+    box-shadow: 2px 2px;
+}
